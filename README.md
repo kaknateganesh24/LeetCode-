@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
