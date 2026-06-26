@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaknateganesh24/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
