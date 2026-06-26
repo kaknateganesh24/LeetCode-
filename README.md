@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaknateganesh24/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaknateganesh24/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
