@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -16,15 +17,18 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaknateganesh24/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
