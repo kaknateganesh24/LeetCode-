@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kaknateganesh24/LeetCode-/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaknateganesh24/LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/kaknateganesh24/LeetCode-/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kaknateganesh24/LeetCode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
