@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/kaknateganesh24/LeetCode-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaknateganesh24/LeetCode-/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kaknateganesh24/LeetCode-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
