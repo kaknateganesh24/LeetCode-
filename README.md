@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/kaknateganesh24/LeetCode-/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/kaknateganesh24/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0904-fruit-into-baskets](https://github.com/kaknateganesh24/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/kaknateganesh24/LeetCode-/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
