@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kaknateganesh24/LeetCode-/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kaknateganesh24/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/kaknateganesh24/LeetCode-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kaknateganesh24/LeetCode-/tree/master/0739-daily-temperatures) |
@@ -26,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaknateganesh24/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/kaknateganesh24/LeetCode-/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaknateganesh24/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kaknateganesh24/LeetCode-/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kaknateganesh24/LeetCode-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kaknateganesh24/LeetCode-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaknateganesh24/LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -99,6 +102,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kaknateganesh24/LeetCode-/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
