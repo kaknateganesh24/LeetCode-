@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaknateganesh24/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kaknateganesh24/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaknateganesh24/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kaknateganesh24/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kaknateganesh24/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/kaknateganesh24/LeetCode-/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaknateganesh24/LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kaknateganesh24/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kaknateganesh24/LeetCode-/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kaknateganesh24/LeetCode-/tree/master/0412-fizz-buzz) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
