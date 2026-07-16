@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaknateganesh24/LeetCode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kaknateganesh24/LeetCode-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -60,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -99,6 +101,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kaknateganesh24/LeetCode-/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
