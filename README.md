@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/kaknateganesh24/LeetCode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaknateganesh24/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kaknateganesh24/LeetCode-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kaknateganesh24/LeetCode-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kaknateganesh24/LeetCode-/tree/master/0901-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kaknateganesh24/LeetCode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
