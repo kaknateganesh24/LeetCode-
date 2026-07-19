@@ -3,14 +3,14 @@ class Solution(object):
         low=1
         high=max(piles)
         while low<=high:
-            k=(low+high)//2
+            mid=(low+high)//2
             total_hours = 0 
             for pile in piles:
-                total_hours += (pile + k - 1) // k
+                total_hours += (pile + mid - 1) // mid
             if total_hours<=h:
-                high=k-1
+                high=mid-1
             else:
-                low=k+1
+                low=mid+1
         return low
 
         
