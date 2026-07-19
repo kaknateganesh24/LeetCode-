@@ -22,6 +22,7 @@
 | [0605-can-place-flowers](https://github.com/kaknateganesh24/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/kaknateganesh24/LeetCode-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kaknateganesh24/LeetCode-/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kaknateganesh24/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kaknateganesh24/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/kaknateganesh24/LeetCode-/tree/master/1672-richest-customer-wealth) |
@@ -46,6 +47,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kaknateganesh24/LeetCode-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/kaknateganesh24/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
