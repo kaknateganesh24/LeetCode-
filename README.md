@@ -110,6 +110,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kaknateganesh24/LeetCode-/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/kaknateganesh24/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kaknateganesh24/LeetCode-/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kaknateganesh24/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
