@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/kaknateganesh24/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaknateganesh24/LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kaknateganesh24/LeetCode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1672-richest-customer-wealth](https://github.com/kaknateganesh24/LeetCode-/tree/master/1672-richest-customer-wealth) |
 | [2460-apply-operations-to-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -51,6 +52,7 @@
 | [0875-koko-eating-bananas](https://github.com/kaknateganesh24/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaknateganesh24/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaknateganesh24/LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kaknateganesh24/LeetCode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sliding Window
 |  |
 | ------- |
