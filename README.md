@@ -195,6 +195,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kaknateganesh24/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaknateganesh24/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -208,6 +209,7 @@
 | [0112-path-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kaknateganesh24/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -239,9 +241,11 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
