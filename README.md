@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/kaknateganesh24/LeetCode-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaknateganesh24/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kaknateganesh24/LeetCode-/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaknateganesh24/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0219-contains-duplicate-ii) |
@@ -143,6 +144,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/kaknateganesh24/LeetCode-/tree/master/1672-richest-customer-wealth) |
 ## Data Stream
 |  |
@@ -193,6 +195,7 @@
 | [0110-balanced-binary-tree](https://github.com/kaknateganesh24/LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kaknateganesh24/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaknateganesh24/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
@@ -209,6 +212,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kaknateganesh24/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/kaknateganesh24/LeetCode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kaknateganesh24/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/kaknateganesh24/LeetCode-/tree/master/0841-keys-and-rooms) |
@@ -243,6 +247,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
