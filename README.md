@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/kaknateganesh24/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kaknateganesh24/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/kaknateganesh24/LeetCode-/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/kaknateganesh24/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/kaknateganesh24/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kaknateganesh24/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kaknateganesh24/LeetCode-/tree/master/0904-fruit-into-baskets) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kaknateganesh24/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kaknateganesh24/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/kaknateganesh24/LeetCode-/tree/master/1672-richest-customer-wealth) |
 ## Data Stream
@@ -202,6 +204,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaknateganesh24/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kaknateganesh24/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/kaknateganesh24/LeetCode-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -219,6 +222,7 @@
 | [0207-course-schedule](https://github.com/kaknateganesh24/LeetCode-/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/kaknateganesh24/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kaknateganesh24/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/kaknateganesh24/LeetCode-/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kaknateganesh24/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -254,6 +258,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/kaknateganesh24/LeetCode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kaknateganesh24/LeetCode-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kaknateganesh24/LeetCode-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaknateganesh24/LeetCode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
